@@ -4,8 +4,11 @@
 - 📫 How to reach me 
 
 gmail: hamadakamal819@gmail.com
+
 whatsapp: 01205236682
+
 facebook: https://www.facebook.com/hamadakamal.hamadakamal.1/
+
 linkedin: https://www.linkedin.com/in/hamada-kamal-a8864a216/
 
 <!---
