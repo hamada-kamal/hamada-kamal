@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning laravel, javascript, 
 - 📫 How to reach me 
 
-gmail: hamadakamal819@gmail.com
-
 whatsapp: 01205236682
 
 facebook: https://www.facebook.com/hamadakamal.hamadakamal.1/
