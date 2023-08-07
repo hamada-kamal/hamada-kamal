@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamada-kamal
 - 👀 I’m interested in coding, sports, fashion, reading
-- 🌱 I’m currently learning TypeScript
+- 🌱 I’m currently learning React With TypeScript
 - 📫 How to reach me 
 
 whatsapp: 01205236682
