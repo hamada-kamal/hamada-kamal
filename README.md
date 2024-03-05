@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hamada-kamal
 - 👀 I’m interested in coding, sports, fashion, reading
-- 🌱 I’m currently learning React With TypeScript
+- 🌱 I’m currently learning how to build odoo applications
 - 📫 How to reach me 
 
 whatsapp: 01205236682
